@@ -1,0 +1,234 @@
+{
+  "common": {
+    "appName": "CivicConnect",
+    "signIn": "Sign In",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "back": "Back"
+  },
+  "login": {
+    "title": "CivicConnect",
+    "subtitle": "Secure Citizen Portal",
+    "username": "Username",
+    "password": "Password",
+    "error": "Invalid username or password",
+    "noAccount": "Not registered?",
+    "createAccount": "Create Account"
+  },
+  "register": {
+    "title": "Join CivicConnect",
+    "subtitle": "Create your citizen account",
+    "username": "Username",
+    "email": "Email",
+    "mobileNumber": "Mobile Number",
+    "password": "Password",
+    "createAccount": "Create Account",
+    "success": "Registration Successful! Please Login.",
+    "error": "Registration failed. Try again.",
+    "hasAccount": "Already have an account?",
+    "signIn": "Sign In"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "reportGrievance": "Report Grievance",
+    "events": "Events",
+    "cityMap": "City Map",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back. Here is the latest from your ward.",
+    "reportNewIssue": "Report New Issue",
+    "grievanceTrends": "Grievance Trends",
+    "aiInsights": "AI Insights",
+    "liveAnalysis": "Live Analysis",
+    "recentActivity": "Recent Activity",
+    "noReports": "No reports filed yet.",
+    "adminResponse": "Admin Response",
+    "quickActions": "Quick Actions",
+    "viewMap": "View Map",
+    "trackStatus": "Track Status",
+    "priority": "Priority",
+    "systemStatus": "System Status",
+    "operational": "Operational",
+    "aiMessageWithReport": "Your recent report on {{category}} has been processed. Resolution time estimated at 48 hours.",
+    "aiMessageNoReport": "System operational. No pending reports requiring AI analysis."
+  },
+  "grievance": {
+    "title": "Report a Grievance",
+    "subtitle": "Submit a new issue to the municipal corporation.",
+    "issueTitle": "Issue Title",
+    "issueTitlePlaceholder": "e.g. Garbage heap at market entrance",
+    "category": "Category",
+    "priority": "Priority",
+    "exactLocation": "Exact Location",
+    "locationPlaceholder": "e.g. Sector 15, Near Railway Station",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe the issue in detail...",
+    "evidencePhoto": "Evidence Photo (Optional)",
+    "uploadPhoto": "Click or Drag to upload photo",
+    "maxSize": "Max 2MB",
+    "fileTooLarge": "File is too large! Please upload an image under 2MB.",
+    "submitReport": "Submit Report",
+    "success": "Grievance Submitted Successfully!",
+    "error": "Failed to submit report. Please try again.",
+    "categories": {
+      "SANITATION": "Sanitation",
+      "ROADS": "Roads & Potholes",
+      "ELECTRICITY": "Electricity",
+      "WATER": "Water Supply",
+      "OTHER": "Other"
+    },
+    "priorities": {
+      "LOW": "Low",
+      "MEDIUM": "Medium",
+      "HIGH": "High (Urgent)"
+    }
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "hi": "हिंदी",
+    "ta": "தமிழ்",
+    "mr": "मराठी"
+  },
+  "home": {
+    "nav": "Home",
+    "hero": {
+      "title": "Connect Your Community with CivicConnect",
+      "subtitle": "Report grievances, track civic issues, and engage with your local government—all in one place.",
+      "cta": "Get Started",
+      "contact": "Contact Us"
+    },
+    "features": {
+      "heading": "What You Can Do",
+      "subheading": "CivicConnect brings citizens and local administration together for faster resolution and transparency.",
+      "reportTitle": "Report Grievances",
+      "reportDesc": "Submit issues with photos and location. AI helps categorize and prioritize.",
+      "mapTitle": "City Map",
+      "mapDesc": "View nearby amenities, utilities, and report issues on the map.",
+      "eventsTitle": "Events & Volunteering",
+      "eventsDesc": "Discover local events and register as a volunteer.",
+      "secureTitle": "Secure Portal",
+      "secureDesc": "Your data is protected. Track status and get updates."
+    },
+    "benefits": {
+      "one": "Report civic issues with photos and location",
+      "two": "Track grievance status in real time",
+      "three": "Access city map and public utilities",
+      "four": "Get notified when your issue is resolved"
+    },
+    "cta": {
+      "heading": "Ready to Make a Difference?",
+      "subtitle": "Join thousands of citizens using CivicConnect to improve their neighborhoods.",
+      "button": "Create Free Account"
+    }
+  },
+  "about": {
+    "nav": "About",
+    "hero": {
+      "title": "About CivicConnect",
+      "subtitle": "Bridging the gap between citizens and local government for a better city."
+    },
+    "story": {
+      "title": "Our Story",
+      "para1": "CivicConnect was built to make civic engagement simple and effective. We believe every citizen should have a direct channel to report issues, track resolutions, and participate in local governance.",
+      "para2": "From grievance reporting to public utility maps and community events, we bring transparency and accountability to urban civic life."
+    },
+    "values": {
+      "heading": "Our Values",
+      "subheading": "We are guided by principles that put citizens and communities first.",
+      "missionTitle": "Citizen First",
+      "missionDesc": "Every feature is designed to make reporting and tracking easy for citizens.",
+      "trustTitle": "Transparency",
+      "trustDesc": "Open status updates and clear communication with the administration.",
+      "inclusiveTitle": "Inclusive",
+      "inclusiveDesc": "Multilingual support so everyone can participate in their language.",
+      "excellenceTitle": "Excellence",
+      "excellenceDesc": "We strive for fast resolution and reliable service."
+    },
+    "cta": {
+      "title": "Together for a Better City",
+      "subtitle": "Join the CivicConnect community and help shape your neighborhood."
+    }
+  },
+  "contact": {
+    "nav": "Contact Us",
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Have a question or feedback? We'd love to hear from you."
+    },
+    "info": {
+      "heading": "Get in Touch"
+    },
+    "addressLabel": "Address",
+    "address": "City Municipal Office, Main Road, Civic Center",
+    "phoneLabel": "Phone",
+    "phone": "+91 1800-XXX-XXXX",
+    "emailLabel": "Email",
+    "email": "support@civicconnect.in",
+    "mapPlaceholder": "Map view (integrate Leaflet/Google Maps here)",
+    "form": {
+      "heading": "Send a Message",
+      "name": "Your Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you! Your message has been sent. We'll get back to you soon."
+    }
+  },
+  "footer": {
+    "tagline": "Connecting citizens with local government for transparent grievance redressal and civic engagement.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "admin": {
+    "title": "Official Command Center",
+    "subtitle": "Manage city operations.",
+    "tabs": {
+      "grievances": "Grievances",
+      "users": "Registered Users",
+      "transactions": "Transactions",
+      "inquiries": "Inquiries"
+    },
+    "table": {
+      "evidence": "Evidence",
+      "titleAnalysis": "Title & Analysis",
+      "statusRemark": "Status & Remark",
+      "actions": "Actions",
+      "userInfo": "User Info",
+      "message": "Message",
+      "status": "Status",
+      "details": "Details",
+      "txnId": "TXN ID",
+      "donor": "Donor",
+      "beneficiary": "Beneficiary NGO",
+      "amount": "Amount",
+      "date": "Date"
+    },
+    "buttons": {
+      "investigate": "Investigate",
+      "reject": "Reject",
+      "resolve": "Mark Resolved",
+      "reply": "Reply",
+      "viewProof": "View Proof"
+    },
+    "status": {
+      "pending": "Pending",
+      "inProgress": "In Progress",
+      "resolved": "Resolved",
+      "rejected": "Rejected"
+    },
+    "empty": {
+      "grievances": "No grievances found.",
+      "users": "No users registered.",
+      "transactions": "No transactions found.",
+      "inquiries": "No new inquiries."
+    }
+  }
+}

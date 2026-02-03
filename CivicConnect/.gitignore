@@ -1,0 +1,54 @@
+# Frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+
+# Backend
+backend/target
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+
+backend/src/main/resources/application.yml
+backend/.env
+frontend/.env
+
+
+# Java / Spring Boot
+target/
+*.log
+
+# Node / React
+node_modules/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment files
+.env
+application.properties
+
+
+# Spring
+target/
+*.log
+application.properties
+
+# Node
+node_modules/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+backend/src/main/resources/application.properties
+
